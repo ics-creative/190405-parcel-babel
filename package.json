@@ -1,0 +1,8 @@
+{
+  "name": "190405-parcel-babel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ics-creative/190405-parcel-babel.git",
+  "author": "ics-kano <takeshi.kano@ics-web.jp>",
+  "license": "MIT"
+}
