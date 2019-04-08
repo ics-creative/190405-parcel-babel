@@ -1,0 +1,12 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "parcel build src/index.html -d ../docs --public-url ./"
+  },
+  "author": "ics-kano",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.3"
+  }
+}
