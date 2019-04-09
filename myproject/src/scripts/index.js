@@ -1,7 +1,7 @@
 // myFunction.jsをインポートする
-import { myFunction } from "./myFunction";
+import { myFunction } from "./myFunction.js";
 // 今日の天気用文字列を生成する
-const todayWeather = myFunction(27);
+const todayWeather = myFunction(30);
 // #weather要素のテキストとして今日の天気を設定する
 document
   .querySelector("#weather")
