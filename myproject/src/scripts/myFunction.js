@@ -3,5 +3,5 @@
  * アロー関数で定義されている。
  */
 export const myFunction = temperature => {
-  return `岡山県の気温は${temperature}度です`;
+  return `岐阜県の気温は${temperature}度です`;
 };
